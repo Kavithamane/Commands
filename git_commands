@@ -1,0 +1,15 @@
+sudo yum install git -y 
+
+mkdir git_folder
+
+cd git_folder
+
+git init
+
+git config --global user.name "kavitha" 
+
+git config --global user.email "kavitha@gmail.com" 
+
+git config --global --list 
+
+
