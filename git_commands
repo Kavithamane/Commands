@@ -22,7 +22,7 @@ gti commit -m "commit-message"
 
 git push -u origin main 
 
-git push -f <branch-name> 
+git push  
 
 git status 
 
@@ -36,4 +36,22 @@ git reset --hard
 
 git reset <file-name> 
 
+git show 
 
+git log -1 
+
+git clone <ur> 
+
+git pull <url> 
+
+git branch 
+
+git branch -M <branch-name> 
+
+git checkout <branch-name> 
+
+git checkout -b <new-branch-name>
+
+git branch -d <branch-name> 
+
+git merge <branch-name>
