@@ -12,4 +12,9 @@ git config --global user.email "kavitha@gmail.com"
 
 git config --global --list 
 
+git add <file_name> 
+
+git add .
+
+git add --all 
 
