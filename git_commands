@@ -18,3 +18,22 @@ git add .
 
 git add --all 
 
+gti commit -m "commit-message" 
+
+git push -u origin main 
+
+git push -f <branch-name> 
+
+git status 
+
+git log 
+
+git log --oneline 
+
+git rm --cache <file-name> 
+
+git reset --hard 
+
+git reset <file-name> 
+
+
